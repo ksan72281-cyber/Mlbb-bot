@@ -6,7 +6,7 @@ import threading
 from telebot.types import InlineQueryResultArticle, InputTextMessageContent # ဒီ line ကို အပေါ်ဆုံးမှာ Import လုပ်ပေးပါ
 
 # သင့်ရဲ့ Bot API Token 
-TOKEN = '8447988972:AAEJaR-TJuzUSDXYab4lmFWmjO7cSXMX8U'
+TOKEN = '8447988972:AAEJaR-TJuzUSDXYab4lmFWmjO7cSXMX8Uw'
 bot = telebot.TeleBot(TOKEN)
 
 # သင်္ချာတွက်ချက်မှုများအတွက်
