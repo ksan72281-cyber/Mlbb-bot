@@ -5,7 +5,7 @@ from flask import Flask
 import threading
 from telebot.types import InlineQueryResultArticle, InputTextMessageContent
 
-TOKEN = '8447988972:AAEJaR-TJuzUSDXYab4lmFWmjO7cSXMX8U'
+TOKEN = '8447988972:AAEJaR-TJuzUSDXYab4lmFWmjO7cSXMX8Uw'
 bot = telebot.TeleBot(TOKEN)
 
 # သိမ်းထားမည့် order များ (duplicate စစ်ဖို့)
